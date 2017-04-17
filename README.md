@@ -3,5 +3,5 @@
 ## *------------------*
 ## | For Fresh Server |
 ## *------------------*
-#### [1] wget https://raw.githubusercontent.com/vaniusha3/x-tv2/master/xtreamcodes_1.0.60_Nulled.sh && chmod a+x xtreamcodes_1.0.60_Nulled.sh && ./xtreamcodes_1.0.60_Nulled.sh
-#### [2] Licences: 'bubi1' 'bubi2' 'bubi3' 'bubi4' 'bubi5' 'bubi6'
+#### [1] wget https://raw.githubusercontent.com/vaniusha3/x-tv2/master/xt_1.0.60-inst.sh && chmod a+x xt_1.0.60-inst.sh && ./xt_1.0.60-inst.sh.sh
+#### [2] Licences: '3d5b0f8e468c332'
