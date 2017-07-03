@@ -22,8 +22,8 @@ fi
 
 fi
 #
-wget http://xtream.ovh/downloads/iptv_panel_pro.zip -O /tmp/iptv_panel_pro.zip
-wget http://xtream.ovh/downloads/install_iptv_pro.zip && unzip install_iptv_pro.zip
+wget http://127.0.0.1/downloads/iptv_panel_pro.zip -O /tmp/iptv_panel_pro.zip
+wget http://127.0.0.1/downloads/install_iptv_pro.zip && unzip install_iptv_pro.zip
 #
 php install_iptv_pro.php
 #
