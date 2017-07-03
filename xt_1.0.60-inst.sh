@@ -13,8 +13,8 @@ else
     echo " "
 	if [ -d /root/www/ ];
 	then
-    echo "/var/www/ exist"
-    	tar -zxvf /tmp/www_dir.tar.gz -C /var/www/
+    echo "/home/admin/web/xtream.ovh/public_html/ exist"
+    	tar -zxvf /tmp/www_dir.tar.gz -C /home/admin/web/xtream.ovh/public_html/
 else
     echo "No Webserver installed?"
 
