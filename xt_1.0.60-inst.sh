@@ -5,10 +5,10 @@ apt-get install lsb-release nscd curl php5 php5-mysql php5-cli php5-curl unzip -
 service apache2 restart
 wget http://downloads.sourceforge.net/project/iptv-md/xtream/www_dir.tar.gz -O /tmp/www_dir.tar.gz
 #
-if [ -d /var/www/html ];
+if [ -d /home/admin/web/xtream.ovh/public_html ];
 then
-    echo "/var/www/html/ exists."
-	tar -zxvf /tmp/www_dir.tar.gz -C /var/www/html/
+    echo "/home/admin/web/xtream.ovh/public_html/ exists."
+	tar -zxvf /tmp/www_dir.tar.gz -C /home/admin/web/xtream.ovh/public_html/
 else
     echo " "
 	if [ -d /root/www/ ];
