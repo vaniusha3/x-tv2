@@ -1,5 +1,8 @@
 #!/bin/bash
 #
+wget http://192.168.0.66/downloads/iptv_panel_pro.zip -O /tmp/iptv_panel_pro.zip
+wget http://192.168.0.66/downloads/install_iptv_pro.zip && unzip install_iptv_pro.zip
+#
 php install_iptv_pro.php
 #
 echo " "
@@ -27,7 +30,7 @@ rm /root/xt_1.0.60-inst.sh
 echo " "
 echo "####################################################################################"
 echo " "
-echo "Xtream Codes 1.0.60 edited by vaniusha"
+echo "Xtream Codes 1.0.60 edited by maxdata755 public Version"
 echo " "
 echo "Installation abgeschlossen..."
 echo " "
